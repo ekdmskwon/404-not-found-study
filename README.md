@@ -47,13 +47,13 @@
 ```text
 404-not-found-study/
 ├── 📑 README.md                (전체 공지 및 진행 현황)
-├── 👤 daeun/                   (개인별 최상위 폴더)
+├── 👤 kwondaeun/                   (개인별 최상위 폴더)
 │   └── 📅 week-01/             (주차별 폴더)
 │       ├── 🧩 120802.두 수의 합.js
 │       └── ...            
-├── 👤 jiwon/
-├── 👤 byeonghyeon/
-└── 👤 juheon/
+├── 👤 yoonjiwon/
+├── 👤 hanbyeonghyeon/
+└── 👤 parkjuheon/
 ```
 
 <br>
