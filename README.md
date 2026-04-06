@@ -19,7 +19,7 @@
 
 | 주차 | 레벨 | 문제 리스트 | 진행률 | 현황 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Week 01** | Level 1 | [문제1](링크), | ![progress](https://geps.dev/progress/0) | 다은(❌) 지원(❌) 병현(❌) 주헌(❌) |
+| **Week 01** | Level 1 | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/12903), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12918), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | ![progress](https://geps.dev/progress/100) | 다은(✅) 지원(✅) 병현(✅) 주헌(✅) |
 | **Week 02** | Level 1 | - | ![progress](https://geps.dev/progress/0) | 다은(❌) 지원(❌) 병현(❌) 주헌(❌) |
 | **Week 02** | Level 1 | - | ![progress](https://geps.dev/progress/0) | 다은(❌) 지원(❌) 병현(❌) 주헌(❌) |
 
