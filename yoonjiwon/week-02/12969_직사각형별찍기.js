@@ -13,3 +13,7 @@ process.stdin.on("data", (data) => {
     result = "";
   }
 });
+
+
+// --풀이
+// 이중반복문을 써서 안에 for문에서 a만큼 별을 찍고 b번 반복한다.
