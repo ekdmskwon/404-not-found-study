@@ -15,18 +15,17 @@
 <br>
 
 ## 📊 주차별 진행 현황
-매주 목표 달성률을 시각적으로 확인합니다. (✅: 완료 / ❌: 진행 중)
+매주 목표 달성률을 시각적으로 확인합니다. (✅: 완료 / 🌗: 진행 중 /  ❌: 미완료)
 
-| 주차 | 레벨 | 문제 리스트 | 진행률 | 현황 |
-| :--- | :--- | :--- | :--- | :--- |
-| **Week 01** | Level 1 | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/12903), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12918), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | ![progress](https://geps.dev/progress/100) | 다은(✅) 지원(✅) 병현(✅) 주헌(✅) |
-| **Week 02** | Level 1 | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/82612), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12906), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/120887), [문제4](https://school.programmers.co.kr/learn/courses/30/lessons/12982), [문제5](https://school.programmers.co.kr/learn/courses/30/lessons/12922), [문제6](https://school.programmers.co.kr/learn/courses/30/lessons/12917), [문제7](https://school.programmers.co.kr/learn/courses/30/lessons/12969) |  ![progress](https://geps.dev/progress/100) | 다은(✅) 지원(✅) 병현(✅) 주헌(✅) |
-| **Week 03** | Level 1 |  [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/147355), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12935), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/77884), [문제4](https://school.programmers.co.kr/learn/courses/30/lessons/1845), [문제5](https://school.programmers.co.kr/learn/courses/30/lessons/136798), [문제6](https://school.programmers.co.kr/learn/courses/30/lessons/12948), [문제7](https://school.programmers.co.kr/learn/courses/30/lessons/12950)| ![progress](https://geps.dev/progress/100) | 다은(✅) 지원(✅) 병현(✅) 주헌(✅) |
-| **Week 04** | Level 1 |  - | ![progress](https://geps.dev/progress/0) | 다은(❌) 지원(❌) 병현(❌) 주헌(❌) |
-| **Week 05** | Level 1 |  - | ![progress](https://geps.dev/progress/0) | 다은(❌) 지원(❌) 병현(❌) 주헌(❌) |
-| **Week 06** | Level 1 |  - | ![progress](https://geps.dev/progress/0) | 다은(❌) 지원(❌) 병현(❌) 주헌(❌) |
-| **Week 07** | Level 1 |  - | ![progress](https://geps.dev/progress/0) | 다은(❌) 지원(❌) 병현(❌) 주헌(❌) |
-
+| 주차 | 문제 리스트 | 다은 | 지원 | 병현 | 주헌 |
+| :--- | :--- | :--- | :---: | :---: | :---: |
+| **Week 01** | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/12903), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12918), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | ✅ | ✅ | ✅ | ✅ |
+| **Week 02** | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/82612), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12906), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/120887), [문제4](https://school.programmers.co.kr/learn/courses/30/lessons/12982), [문제5](https://school.programmers.co.kr/learn/courses/30/lessons/12922), [문제6](https://school.programmers.co.kr/learn/courses/30/lessons/12917), [문제7](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | ✅ | ✅ | ✅ | ✅ |
+| **Week 03** | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/147355), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12935), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/77884), [문제4](https://school.programmers.co.kr/learn/courses/30/lessons/1845), [문제5](https://school.programmers.co.kr/learn/courses/30/lessons/136798), [문제6](https://school.programmers.co.kr/learn/courses/30/lessons/12948), [문제7](https://school.programmers.co.kr/learn/courses/30/lessons/12950) | ✅ | ✅ | ✅ | ✅ |
+| **Week 04** | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/12919), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/68935), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/86051), [문제4](https://school.programmers.co.kr/learn/courses/30/lessons/12943), [문제5](https://school.programmers.co.kr/learn/courses/30/lessons/76501), [문제6](https://school.programmers.co.kr/learn/courses/30/lessons/131705), [문제7](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | 🌗 | ✅ | ✅ | ✅ |
+| **Week 05** | [문제1](https://school.programmers.co.kr/learn/courses/30/lessons/12910), [문제2](https://school.programmers.co.kr/learn/courses/30/lessons/12910), [문제3](https://school.programmers.co.kr/learn/courses/30/lessons/70128),| - | - | - | - |
+| **Week 06** | - | - | - | - | - |
+| **Week 07** | - | - | - | - | - |
 
 
 <br>
